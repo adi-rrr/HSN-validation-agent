@@ -67,3 +67,12 @@ Output: ⚠️ HSN Code 1234 not found. Closest match: 12 - Oil seeds...
 Input: “Check HSN for 01012100, 1234 and 0101”
 Output: Combo of ✅, ❌, and ⚠️ responses
 
+
+
+
+
+
+
+Using ADK only:
+project files - https://drive.google.com/drive/folders/1X5u91ZaHogljlpH7Zk5ShhxauzrpVJSU
+walkthrough - https://drive.google.com/file/d/1EUkjupzzS4OmdFF3z8KLZWh-gFUC74p4/view
